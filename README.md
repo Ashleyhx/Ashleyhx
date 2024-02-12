@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hi there 👋 
+
+ I am Ashley, a Computer Science Student @ University of Waterloo. Previously interned @ Faire, Kuzudb.
+
+  - 🔭 Passionate about coding and aspire to make a meaningful impact through my programming skills!
+  - 🖥️ Had prior experiences in Backend, Fullstack, DevOps and Database Development.
+  - 🌱 Currently looking for summer 2024 and fall 2024 internship opportunities.
 
 <!--
 **Ashleyhx/Ashleyhx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
